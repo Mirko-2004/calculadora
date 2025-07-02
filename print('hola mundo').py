@@ -1,2 +1,2 @@
 print('hola mundo')
-print('chupalo pal que lee')
+print('lo queremos <3')
